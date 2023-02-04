@@ -1,2 +1,3 @@
-# branching-merge-conflict-example
+# second branch
+
 Example for merge conflict and branching
